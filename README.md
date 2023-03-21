@@ -1,2 +1,2 @@
 # Java
-Java from the beginning
+Learning Java from the beginning
