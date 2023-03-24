@@ -1,6 +1,6 @@
 # Java
 Learning Java from the beginning
-## It will start from here
+## It was started from here
 
 class HelloWorld(){
 public static void main(String args[]){
