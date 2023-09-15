@@ -42,3 +42,14 @@ System.out.println(9+9)}
 ```
 Output - 18
 ```
+
+```JAVA
+public class addition(){
+public static void main(String args[]){
+System.out.println(9*2)}
+}
+```
+
+```
+Output - 18
+```
