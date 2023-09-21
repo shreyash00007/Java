@@ -67,4 +67,17 @@ System.out.println(myNum);
 ```
 Output - 20
 ```
+```JAVA
+public class addition(){
+public static void main(String args[]){
+int myNum = 15;
+myNum = 20 + 3 ;  // myNum is now 20
+System.out.println(myNum);
+
+}
+```
+
+```
+Output - 23
+```
 
