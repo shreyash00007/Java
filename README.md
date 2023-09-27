@@ -1,6 +1,6 @@
 # Java
 
-Learning Java from the beginning
+Learning Java from the basics
 
 ## Basics of Java Printing statement ( Hello World )
 
